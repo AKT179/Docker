@@ -1,0 +1,4 @@
+NAME                                   READY   STATUS         RESTARTS   AGE
+my-docker-deployment-7d69bb878-pdlfs   0/1     ErrImagePull   0          11s
+my-docker-deployment-c648587db-gr2v4   0/1     ErrImagePull   0          61s
+my-docker-deployment-c648587db-mzmgx   0/1     ErrImagePull   0          61s
